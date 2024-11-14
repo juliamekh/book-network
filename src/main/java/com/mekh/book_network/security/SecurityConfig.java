@@ -1,4 +1,4 @@
-package com.alibou.book_network.security;
+package com.mekh.book_network.security;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

@@ -1,6 +1,6 @@
-package com.alibou.book_network.security;
+package com.mekh.book_network.security;
 
-import com.alibou.book_network.user.UserRepository;
+import com.mekh.book_network.user.UserRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;

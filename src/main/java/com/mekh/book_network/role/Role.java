@@ -1,11 +1,10 @@
-package com.alibou.book_network.role;
+package com.mekh.book_network.role;
 
 
-import com.alibou.book_network.user.User;
+import com.mekh.book_network.user.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.aot.generate.Generated;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;

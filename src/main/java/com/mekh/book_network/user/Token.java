@@ -1,9 +1,8 @@
-package com.alibou.book_network.user;
+package com.mekh.book_network.user;
 
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package com.alibou.book_network.security;
+package com.mekh.book_network.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -1,4 +1,4 @@
-package com.alibou.book_network;
+package com.mekh.book_network;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

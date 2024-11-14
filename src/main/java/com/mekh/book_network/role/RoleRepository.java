@@ -1,4 +1,4 @@
-package com.alibou.book_network.role;
+package com.mekh.book_network.role;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

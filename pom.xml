@@ -8,7 +8,7 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.alibou</groupId>
+	<groupId>com.mekh</groupId>
 	<artifactId>book-network</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>book-network-api</name>

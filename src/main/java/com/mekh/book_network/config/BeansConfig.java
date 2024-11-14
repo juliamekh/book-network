@@ -1,4 +1,4 @@
-package com.alibou.book_network.config;
+package com.mekh.book_network.config;
 
 
 import lombok.RequiredArgsConstructor;
